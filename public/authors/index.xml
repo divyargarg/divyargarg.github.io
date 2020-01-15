@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Divya Garg</title>
+    <link>https://divyargarg.github.io/authors/</link>
+      <atom:link href="https://divyargarg.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://divyargarg.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://divyargarg.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://divyargarg.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://divyargarg.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Divya Garg is a graduate student at the University of North Carolina at Charlotte. Her research interests include Data Science, Consumer Analytics and Applications of machine learning. She has worked on various  projects which include Marketing Analytics, Healthcare Analytics, social media analytics and Banking.&lt;/p&gt;
+
+&lt;p&gt;After completing her bachelors in Information Technology, Divya worked as a Data Analyst in Federal Bank Ltd., India for 2 Years. She then started her masters in data science and business analytics at The University of North Carolina at Charlotte.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
